@@ -15,6 +15,7 @@ A web app to track income and expenses of a person.
 * Javascript
 * Tailwind CSS
 * React.js
+* Redux
 
 ### API
 * JSON web api
