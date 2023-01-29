@@ -1,7 +1,7 @@
 # Expense Tracker Redux Toolkit
 A web app to track income and expenses of a person.
 
-[Live Website](https://courageous-hamster-32ba03.netlify.app/)
+[Live Website](https://coruscating-bavarois-073e20.netlify.app/)
 
 #### Features :
 * Enter new transaction
